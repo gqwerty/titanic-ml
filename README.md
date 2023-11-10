@@ -17,18 +17,18 @@
     In this analysis, I am going to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).  
 </p>
 <p>
-PassengerId: 승객의 고유 번호
-Survived: 승객의 생존 여부. 0은 사망, 1은 생존
-Pclass: 승객의 티켓 등급. 1은 1등급, 2는 2등급, 3은 3등급
-Name: 승객의 이름
-Sex: 승객의 성별. 'male'은 남성, 'female'은 여성
-Age: 승객의 나이
-SibSp: 함께 탑승한 형제자매, 배우자의 수
-Parch: 함께 탑승한 부모, 자녀의 수
-Ticket: 티켓 번호
-Fare: 승객이 지불한 요금
-Cabin: 승객의 객실 번호
-Embarked: 승객이 탑승한 항구
+PassengerId: 승객의 고유 번호<br>
+Survived: 승객의 생존 여부. 0은 사망, 1은 생존<br>
+Pclass: 승객의 티켓 등급. 1은 1등급, 2는 2등급, 3은 3등급<br>
+Name: 승객의 이름<br>
+Sex: 승객의 성별. 'male'은 남성, 'female'은 여성<br>
+Age: 승객의 나이<br>
+SibSp: 함께 탑승한 형제자매, 배우자의 수<br>
+Parch: 함께 탑승한 부모, 자녀의 수<br>
+Ticket: 티켓 번호<br>
+Fare: 승객이 지불한 요금<br>
+Cabin: 승객의 객실 번호<br>
+Embarked: 승객이 탑승한 항구<br>
 
 </body>
 </html>
